@@ -1,0 +1,11 @@
+Name : Storytellers
+Members : 
+-Madjid Erroukrma (SQL Task)
+-vinit Ladse (Python task)
+- Kratika tomar  (Module 2 Visualization Task - soon) 
+- shruti sharma (Excel Task)
+
+Tools and Files : 
+Python Jupyter Notebook - (py and notebook file)
+Microsoft Excel (csv files)
+Microsoft SQL Server (text and sql file)
